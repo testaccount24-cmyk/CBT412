@@ -1,0 +1,11 @@
+2025-04-04 09:19:32.939879 - Received CBT.V508.FILE412.PDS from FILE412.XMI 
+2025-04-04 09:19:32.940542 - Found CONFIGXX.bin (application/octet-stream) in CBT.V508.FILE412.PDS, moved to PDS/CONFIGXX
+2025-04-04 09:19:32.940706 - Found DDDEFCHK.bin (application/octet-stream) in CBT.V508.FILE412.PDS, moved to PDS/DDDEFCHK
+2025-04-04 09:19:32.940837 - Found DDDEFPTH.bin (application/octet-stream) in CBT.V508.FILE412.PDS, moved to PDS/DDDEFPTH
+2025-04-04 09:19:32.940955 - Found DELNOENQ.bin (application/octet-stream) in CBT.V508.FILE412.PDS, moved to PDS/DELNOENQ
+2025-04-04 09:19:32.941089 - Found LISTSYM.bin (application/octet-stream) in CBT.V508.FILE412.PDS, moved to PDS/LISTSYM
+2025-04-04 09:19:32.941216 - Found SLEEP.bin (application/octet-stream) in CBT.V508.FILE412.PDS, moved to PDS/SLEEP
+2025-04-04 09:19:32.941342 - Found STEMPULL.bin (application/octet-stream) in CBT.V508.FILE412.PDS, moved to PDS/STEMPULL
+2025-04-04 09:19:32.941473 - Found STEMPUSH.bin (application/octet-stream) in CBT.V508.FILE412.PDS, moved to PDS/STEMPUSH
+2025-04-04 09:19:32.941593 - Found VARYDASD.bin (application/octet-stream) in CBT.V508.FILE412.PDS, moved to PDS/VARYDASD
+2025-04-04 09:19:32.941710 - Found VTOCUTIL.bin (application/octet-stream) in CBT.V508.FILE412.PDS, moved to PDS/VTOCUTIL
